@@ -1,0 +1,9 @@
+.layout-container {
+  display: flex;
+  justify-content: center;
+}
+
+.layout-inner-container {
+  width: 90%;
+  max-width: 1110px;
+}
