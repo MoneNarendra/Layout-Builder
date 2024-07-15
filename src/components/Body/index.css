@@ -151,6 +151,12 @@
   align-items: center;
 }
 
+.right-navbar-item-text {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #465363;
+}
+
 @media (min-width: 768px) {
   .right-navbar-item {
     height: 100px;
