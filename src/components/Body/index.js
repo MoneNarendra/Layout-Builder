@@ -31,8 +31,12 @@ const Body = () => (
         <div className="right-navbar-container">
           <h1 className="body-headings">Right Navbar Menu</h1>
           <ul className="right-navbar-items-container">
-            <li className="right-navbar-item">Ad 1</li>
-            <li className="right-navbar-item">Ad 2</li>
+            <li className="right-navbar-item">
+              <p className="right-navbar-item-text">Ad 1</p>
+            </li>
+            <li className="right-navbar-item">
+              <p className="right-navbar-item-text">Ad 2</p>
+            </li>
           </ul>
         </div>
       )
